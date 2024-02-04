@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my LeetCode Solutions Repository! This repository contains my solutions to various problems on LeetCode. I have organized the solutions by problem number, making navigating and finding specific solutions easy.
+Welcome to my LeetCode Solutions Repository! This repository contains my solutions to various problems on LeetCode. I have organized the solutions by shortening the problem, making navigating and finding specific solutions easy.
 
 ## Structure
 
