@@ -32,8 +32,8 @@ If you'd like to contribute by adding your solutions or improving existing ones,
 
 | Number | Projects |
 | :----------- | :------------: | 
-| 1        | [/longest_substring_without_repeatition/](Longest substring without repeatition)           |
-| 2        | [/check_palindrome_string](check whether a string is a Palindrome)   | 
+| 1        | [Longest substring without repeatition](https://github.com/aleenababy/LeetCode/tree/main/longest_substring_without_repeatition)          |
+| 2        | [check whether a string is a Palindrome](https://github.com/aleenababy/LeetCode/tree/main/check_palindrome_string)   | 
 
 
 
