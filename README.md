@@ -33,7 +33,14 @@ If you'd like to contribute by adding your solutions or improving existing ones,
 | Number | Projects |
 | :----------- | :------------: | 
 | 1        | [Longest substring without repeatition](https://github.com/aleenababy/LeetCode/tree/main/longest_substring_without_repeatition)          |
-| 2        | [check whether a string is a Palindrome](https://github.com/aleenababy/LeetCode/tree/main/check_palindrome_string)   | 
+| 2        | [Check whether a string is a Palindrome](https://github.com/aleenababy/LeetCode/tree/main/check_palindrome_string)   | 
+| 3        | [Add two numbers](https://github.com/aleenababy/LeetCode/tree/main/add_two_numbers)   | 
+| 4        | [Check whether a number is a Palindrome](https://github.com/aleenababy/LeetCode/tree/main/check_palindrome_number)   | 
+| 5        | [Zigzag](https://github.com/aleenababy/LeetCode/tree/main/zigzag_conversion)   | 
+| 6        | [Convert a string to integer](https://github.com/aleenababy/LeetCode/tree/main/string_to_integer)   | 
+| 7        | [Reversing an integer](https://github.com/aleenababy/LeetCode/tree/main/reversing_a_digit)   | 
+| 8        | [Median of two sorted arrays](https://github.com/aleenababy/LeetCode/tree/main/median_two_sorted_arrays)   | 
+
 
 
 
