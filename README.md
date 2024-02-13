@@ -28,6 +28,15 @@ If you'd like to contribute by adding your solutions or improving existing ones,
 7. Push to the branch: `git push origin feature/new-solution`.
 8. Open a pull request.
 
+## List of projects
+
+| Number | Projects |
+| :----------- | :------------: | 
+| 1        | [/longest_substring_without_repeatition/](Longest substring without repeatition)           |
+| 2        | [/check_palindrome_string](check whether a string is a Palindrome)   | 
+
+
+
 ## Disclaimer
 
 These solutions are intended for learning and reference purposes. While I strive to provide accurate and efficient solutions, there may be multiple ways to solve a problem, and solutions may vary in complexity and style. Always aim to understand the underlying concepts and principles behind each solution.
